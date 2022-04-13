@@ -9,3 +9,13 @@
 5. Near to Hardware,Embedded device,CP 
 
 
+### Setup, working environment
+
+ #### Tools 
+ 1. Compiler: *Translator*,Source Code > Compiler > Machine Code
+ 3. Text Editor
+ 4. Terminal
+ 5. Browser : to get help from online,*try to type after realizing the solutions
+
+
+
